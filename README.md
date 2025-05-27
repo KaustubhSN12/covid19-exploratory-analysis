@@ -123,7 +123,7 @@ sns.pairplot(df_groupby)
 sns.catplot(x='continent', y='total_cases', data=df_groupby, kind='bar')
 ```
 
-![Bar Plot]([Bar Plot.png](https://github.com/KaustubhSN12/covid19-exploratory-analysis/blob/main/Bar%20Plot.png))
+![Bar Plot](Outputs/Bar Plot.png)
 
 > Asia and North America show the highest number of cases, while Africa and Oceania remain on the lower end.
 
