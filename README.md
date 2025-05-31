@@ -1,8 +1,6 @@
-Here is a well-structured and visually appealing `README.md` file for your **COVID-19 Data Analysis Project using Python**. This version is suitable for your GitHub repository, with clear guidance for viewers and appealing to recruiters by showcasing your skills, insights, and visualizations.
 
 ---
 
-````markdown
 # 🦠 COVID-19 Data Analysis using Python (Google Colab)
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python&logoColor=white)
@@ -76,7 +74,7 @@ The dataset was sourced from [this public URL](https://raw.githubusercontent.com
 ### 📌 1. GDP per Capita - Distribution
 ```python
 sns.histplot(df['gdp_per_capita'], kde=True)
-````
+
 
 📝 **Insight**: Most countries have a GDP per capita below 20,000. A few wealthy outliers heavily influence the distribution.
 
