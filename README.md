@@ -134,14 +134,14 @@ North America and Asia recorded the highest total COVID-19 cases.
 
 ## 📈 Outcome Summary
 
-| Metric                  | Insight                                  |
-| ----------------------- | ---------------------------------------- |
-| Highest Cases           | Europe (55M+)                            |
-| Avg Cases per Country   | \~167k                                   |
-| Quartiles (Deaths)      | Q1: 13, Q2: 84, Q3: 727                  |
-| HDI Leader              | Europe                                   |
-| Lowest GDP per Capita   | Africa                                   |
-| Mortality Ratio Insight | High death-to-case ratio suggests strain |
+| Metric                  | Insight                                                         |
+| ----------------------- | ---------------------------------------------------------------- |
+| Highest Cases           | **North America** (~11M+ based on bar plot)                     |
+| Avg Cases per Country   | ~167k                                                           |
+| Quartiles (Deaths)      | Q1: 13, Q2: 84, Q3: 727                                         |
+| HDI Leader              | Europe                                                          |
+| Lowest GDP per Capita   | Africa                                                          |
+| Mortality Ratio Insight | Death-to-case ratio is mostly low (under ~3%) across continents |
 
 ---
 
@@ -155,16 +155,15 @@ North America and Asia recorded the highest total COVID-19 cases.
 
 ## 📁 Project Link & Notebook
 
-🔗 [View on Google Colab](#) (add your colab link here)
-📘 [Jupyter Notebook (.ipynb)](link-if-available)
-📎 \[PDF Report]\(Attach PDF if needed)
+🔗 [View on Google Colab](#) ([Click here:](https://colab.research.google.com/drive/1MVQOdowUcyk-GWv-im6imuh6US_yvlsv?usp=sharing))
+📎 \[PDF TASK]\(Attach PDF if needed)
 
 ---
 
 ## 📬 Contact & Connect
 
 🔗 [LinkedIn](https://www.linkedin.com/in/kaustubh-narayankar-6651a9249/)
-📧 Email: *(Add if you want)*
+📧 Email: *k.narayankar3030@gmail.com*
 📌 GitHub: [KaustubhSN12](https://github.com/KaustubhSN12)
 
 ---
@@ -173,12 +172,3 @@ North America and Asia recorded the highest total COVID-19 cases.
 
 ```
 
----
-
-### ✅ Next Steps
-
-- Add actual image links of your graphs by saving them as `.png` and uploading them to your repo
-- Replace `#` placeholders with appropriate Colab or notebook links
-
-Would you like help exporting the graphs and inserting image links into this README automatically?
-```
