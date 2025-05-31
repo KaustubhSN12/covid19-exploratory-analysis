@@ -145,6 +145,45 @@ North America and Asia recorded the highest total COVID-19 cases.
 
 ---
 
+## 📊 Visual Insights
+
+### 🔹 Total COVID-19 Cases by Continent
+
+![Total Cases by Continent](images/barplot_cases_by_continent.png)
+
+> **Insight**: North America leads with the highest number of reported total cases, followed by Asia. Oceania and Africa recorded the fewest.
+
+---
+
+### 🔹 GDP per Capita Distribution
+
+![GDP per Capita](images/gdp_per_capita_distribution.png)
+
+> **Insight**: Strong right-skewed distribution. Most countries fall under lower GDP ranges, with few outliers having very high GDP per capita.
+
+---
+
+### 🔹 Pairplot of Key Indicators (Grouped by Continent)
+
+![Pairplot](images/pairplot_grouped_by_continent.png)
+
+> **Insight**: Multi-variable comparison reveals no obvious linear relationship but helps detect patterns and outliers among continents.
+
+---
+
+## 🧹 Key Steps Covered
+
+- Data Loading and Exploration
+- High-level and Low-level EDA
+- Data Cleaning & Null Handling
+- Feature Engineering: `total_deaths_to_total_cases`
+- Time Conversion: Month extraction from dates
+- Aggregation by Continent
+- Visual Storytelling using Matplotlib & Seaborn
+
+---
+
+
 ## 💡 Key Learnings
 
 * Practical use of **EDA**, **feature engineering**, and **data visualization**
