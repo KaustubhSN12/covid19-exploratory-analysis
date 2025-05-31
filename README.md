@@ -89,9 +89,9 @@ sns.scatterplot(x='total_cases', y='gdp_per_capita', data=df)
 📝 **Insight**:
 The distribution is heavily right-skewed.
 
-Most countries have a low GDP per capita, while a few countries have significantly higher values (outliers).
+- Most countries have a low GDP per capita, while a few countries have significantly higher values (outliers).
 
-This suggests global inequality in wealth distribution, relevant when analyzing health system capacities and COVID-19 responses.
+- This suggests global inequality in wealth distribution, relevant when analyzing health system capacities and COVID-19 responses.
 
 
 ---
@@ -105,15 +105,15 @@ sns.pairplot(df_groupby)
 📝 **Insight**: 
 Helps visually analyze correlations between variables like total_cases, total_deaths, gdp_per_capita, human_development_index, etc.
 
-No strong linear relationships were observed.
+- No strong linear relationships were observed.
 
-Distributions (diagonal) show:
+- Distributions (diagonal) show:
 
-Skewed GDP per capita (a few rich nations)
+ - Skewed GDP per capita (a few rich nations)
 
-Death-to-case ratios are consistently low across continents.
+ - Death-to-case ratios are consistently low across continents.
 
-Helps in identifying clusters or outliers.
+ - Helps in identifying clusters or outliers.
 
 
 ---
@@ -127,9 +127,9 @@ sns.catplot(x='continent', y='total_cases', data=df_groupby, kind='bar')
 🔍 **Insight**:
 North America and Asia recorded the highest total COVID-19 cases.
 
-Africa and Oceania had the lowest numbers, indicating either fewer outbreaks or possibly limited testing/reporting.
+- Africa and Oceania had the lowest numbers, indicating either fewer outbreaks or possibly limited testing/reporting.
 
-The plot shows a clear regional variation in total case counts.
+- The plot shows a clear regional variation in total case counts.
 ---
 
 ## 📈 Outcome Summary
