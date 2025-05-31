@@ -194,8 +194,7 @@ North America and Asia recorded the highest total COVID-19 cases.
 
 ## 📁 Project Link & Notebook
 
-🔗 [View on Google Colab](#) ([Click here:](https://colab.research.google.com/drive/1MVQOdowUcyk-GWv-im6imuh6US_yvlsv?usp=sharing))
-📎 \[PDF TASK]\(Attach PDF if needed)
+🔗 [View on Google Colab](https://colab.research.google.com/drive/1MVQOdowUcyk-GWv-im6imuh6US_yvlsv?usp=sharing) 
 
 ---
 
