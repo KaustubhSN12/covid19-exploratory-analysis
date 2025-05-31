@@ -149,7 +149,7 @@ North America and Asia recorded the highest total COVID-19 cases.
 
 ### 🔹 Total COVID-19 Cases by Continent
 
-![Total Cases by Continent](images/barplot_cases_by_continent.png)
+![Total Cases by Continent](Outputs/barplot_cases_by_continent.png)
 
 > **Insight**: North America leads with the highest number of reported total cases, followed by Asia. Oceania and Africa recorded the fewest.
 
@@ -157,7 +157,7 @@ North America and Asia recorded the highest total COVID-19 cases.
 
 ### 🔹 GDP per Capita Distribution
 
-![GDP per Capita](images/gdp_per_capita_distribution.png)
+![GDP per Capita](Outputs/gdp_per_capita_distribution.png)
 
 > **Insight**: Strong right-skewed distribution. Most countries fall under lower GDP ranges, with few outliers having very high GDP per capita.
 
@@ -165,7 +165,7 @@ North America and Asia recorded the highest total COVID-19 cases.
 
 ### 🔹 Pairplot of Key Indicators (Grouped by Continent)
 
-![Pairplot](images/pairplot_grouped_by_continent.png)
+![Pairplot](Outputs/pairplot_grouped_by_continent.png)
 
 > **Insight**: Multi-variable comparison reveals no obvious linear relationship but helps detect patterns and outliers among continents.
 
